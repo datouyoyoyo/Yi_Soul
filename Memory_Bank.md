@@ -3,7 +3,7 @@
 
 ## 1. User Profile (The User)
 * **Identity:** Unknown Name。
-* **Style:** [To be observed]
+* **Style:** [175公分高，平頭，簡單樸素穿搭]
 * **Relation:** Not yet obtained。
 
 ## 2. Shared History (Chronological Log)
